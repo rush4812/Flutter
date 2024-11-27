@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310165121498",
+    "project_id": "fireauth-a5add",
+    "storage_bucket": "fireauth-a5add.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310165121498:android:ffa2af0d9279897de4f8e3",
+        "android_client_info": {
+          "package_name": "com.example.electronics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY-oDbwMd63SXu6PIPOtGK-fRFFeooe_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
